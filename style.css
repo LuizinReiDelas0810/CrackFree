@@ -1,6 +1,6 @@
 body{
      background: url(https://img.freepik.com/fotos-premium/fundo-gradiente-de-luxo-abstrato-azul-escuro-liso-com-banner-de-estudio-vinheta-preta_1258-100444.jpg);
-     font-size: large;
+     font-size: large;     
     }
 h1 {
     color: blue;
@@ -9,20 +9,4 @@ h1 {
 h2 {
     color: black;
     font-size: 60px;       
-   }
-h3 {
-    color: black;
-    font-size: 70px;       
-   }
-h4 {
-    color: black;
-    font-size: 80px;       
-   }
-h5 {
-    color: black;
-    font-size: 90px;       
-   }
-h6 {
-    color: black;
-    font-size: 100px;       
    }
